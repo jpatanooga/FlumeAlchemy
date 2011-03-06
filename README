@@ -1,0 +1,7 @@
+FlumeAlchemy is just a collection of Flume source and sinks I'm playing with.
+
+This project is the code version of me scribbling on a napkin in a bar. Most of this code is in various states, dont expect too much at the present time. I'm using this repo to think through some ideas and share some notes with a few people.
+
+The latent theme of this project is connecting hdfs and mr with various machine data sources such as android and the openPDC, using Flume as a conduit.
+
+Questions or Comments: jpatterson at floe dot tv
